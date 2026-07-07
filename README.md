@@ -1,161 +1,199 @@
 # Hi there, I'm Akash Jadhav 👋
 
-### Data Analyst | Business Analyst | Aspiring Data Scientist
+### AI Engineer | Machine Learning Engineer | Data Engineer | Data Scientist
 
 📍 Pune, Maharashtra, India
 
-I'm a Data Analyst passionate about transforming raw data into actionable business insights. My experience spans data analytics, machine learning, dashboard development, and business intelligence using Python, SQL, Power BI, Tableau, and Excel.
+I'm a Computer Science graduate passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Data Engineering, and Data Analytics. I enjoy transforming raw data into actionable insights, developing AI-powered applications, designing data pipelines, and creating interactive dashboards that solve real-world problems.
 
-I enjoy solving real-world problems through data-driven decision-making and building analytical solutions that improve operational efficiency and business outcomes.
-
----
-
-## 🚀 About Me
-
-🎓 B.Sc. Computer Science (Honours) @ MIT World Peace University, Pune
-
-📊 Skilled in Data Analytics, Business Intelligence & Machine Learning
-
-📈 Analyzed 10,000+ records through SQL, Excel, and Python-based analytics
-
-📉 Built KPI dashboards and predictive models for real-world business use cases
-
-🤝 Student Placement Representative at MIT-WPU
-
-🌱 Currently exploring Advanced Analytics, Data Science, and AI Applications
+My goal is to build scalable AI solutions that create measurable business impact while continuously learning emerging technologies.
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Me
 
-### Programming & Analytics
+🎓 B.Sc. Computer Science (Honours), MIT World Peace University, Pune
+
+🤖 Passionate about Artificial Intelligence, Machine Learning & Data Engineering
+
+📊 Experienced in Data Analytics, Business Intelligence & Predictive Modeling
+
+💻 Strong foundation in Python, SQL, Machine Learning, Computer Vision & Data Visualization
+
+📈 Built multiple end-to-end AI, ML, Analytics, and Dashboard projects
+
+🤝 Student Placement Representative (MIT-WPU)
+
+🌱 Currently learning Advanced Machine Learning, Generative AI, Cloud Technologies, and Data Engineering
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming
 
 * Python
 * SQL
 * MySQL
-* R Programming
+* R
+* JavaScript
 
-### Data Science & Machine Learning
+## AI & Machine Learning
 
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* YOLOv8
+* OpenCV
+* Scikit-learn
 * Pandas
 * NumPy
-* Scikit-Learn
 * Feature Engineering
+* Model Evaluation
+
+## Data Analytics
+
+* Exploratory Data Analysis (EDA)
 * Statistical Analysis
+* Data Cleaning
+* Data Wrangling
 * Predictive Analytics
-* Machine Learning
+* Business Analytics
 
-### Data Visualization & BI
+## Data Visualization
 
-* Power BI
 * Tableau
-* Excel (Advanced)
+* Power BI
+* Microsoft Excel
 * DAX
 * Power Query
+
+## Data Engineering
+
+* SQL Optimization
+* ETL Concepts
 * Data Modeling
-* Data Storytelling
+* Data Pipelines
 
-### Tools
+## Web Development
 
-* Git & GitHub
-* Postman
+* Flask
+* Streamlit
+* React.js
+* Next.js
+* HTML
+* CSS
+* Tailwind CSS
+
+## Tools
+
+* Git
+* GitHub
 * VS Code
+* Postman
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Business Analyst Intern
+## Business Analyst Intern
 
 **Aspire Knowledge & Skills India Pvt. Ltd., Pune**
 
-* Performed data cleaning, SQL validation, and exploratory data analysis on 10,000+ records.
-* Improved reporting accuracy and reduced manual processing efforts by approximately 15%.
-* Collaborated with stakeholders to identify inefficiencies and deliver reporting solutions using SQL and Excel.
-
-### Student Placement Representative
-
-**MIT-WPU Placement Cell**
-
-* Coordinated placement activities involving 50+ recruiters.
-* Supported placement drives for 200+ students.
-* Developed stakeholder communication and project coordination skills.
+* Cleaned and analyzed business datasets using SQL, Excel, and Python.
+* Improved reporting accuracy through automated validation and analytics.
+* Built business reports that supported operational decision-making.
+* Collaborated with stakeholders to identify process improvements.
 
 ---
 
-## 📂 Featured Projects
+## Student Placement Representative
 
-### 🏛️ AMRUT Government Welfare Analytics System
+**MIT World Peace University**
 
-**SQL • MySQL • Power BI • Excel**
-
-* Built a centralized analytics framework for Maharashtra Government's AMRUT initiative.
-* Automated beneficiary eligibility verification and validation.
-* Developed Power BI dashboards for KPI tracking and stakeholder reporting.
-
-### 🏥 Smart Medical Triage System
-
-**Python • Scikit-Learn • Streamlit**
-
-* Developed a machine learning model for patient urgency classification.
-* Applied class balancing and cross-validation techniques.
-* Delivered real-time predictions through an interactive Streamlit dashboard.
-
-### 🚗 EV Adoption Analysis Dashboard
-
-**Tableau • Excel • EDA**
-
-* Analyzed 5,000+ EV records across 15+ states.
-* Built interactive Tableau dashboards with KPI cards and drill-down filters.
-* Generated insights into regional EV adoption trends.
-
-### 🛣️ Pothole Detection & Mapping System
-
-**Python • OpenCV • YOLO • Flask**
-
-* Developed a computer vision pipeline using YOLO and OpenCV.
-* Achieved 91% detection precision.
-* Integrated geospatial mapping for infrastructure planning and civic reporting.
+* Coordinated placement activities with recruiters and students.
+* Assisted in organizing placement drives and communication.
+* Strengthened leadership, coordination, and stakeholder management skills.
 
 ---
 
-## 🏆 Certifications
+# 🚀 Featured Projects
 
-✔ IBM – Data Analysis with Python
+## 🛣️ AI Pothole Detection System
 
-✔ IBM – Data Visualization with Python
+**Python • YOLOv8 • OpenCV • Flask**
 
-✔ IBM – Generative AI: Introduction & Applications
-
-✔ Microsoft – Power BI Data Analyst (PL-300)
-
-✔ Deloitte (Forage) – Data Analytics Job Simulation
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datasnitch\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datasnitch\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=datasnitch\&theme=tokyonight)
+* Built an AI-powered pothole detection system using Computer Vision.
+* Detects potholes from uploaded road images in real time.
+* Displays confidence scores, severity estimation, and annotated results.
+* Integrated an interactive web interface using Flask.
 
 ---
 
-## 📫 Connect With Me
+## 💳 Graph Machine Learning Fraud Detection
 
-📧 Email: [acjadhav1504@gmail.com](mailto:acjadhav1504@gmail.com)
+**Python • Streamlit • NetworkX • Machine Learning**
 
-💼 LinkedIn: https://linkedin.com/in/akash-jadhav-145599360
-
-💻 GitHub: https://github.com/datasnitch
+* Developed an intelligent fraud detection system using graph analytics.
+* Visualized suspicious transaction networks.
+* Generated fraud insights through interactive dashboards.
+* Built using Streamlit for real-time exploration.
 
 ---
 
-### 📈 Career Interests
+## 🚗 Electric Vehicle Adoption Dashboard
 
-Data Analyst • Business Analyst • BI Analyst • Analytics Associate • Data Scientist
+**Tableau • Excel • Data Analytics**
 
-> "Turning Data into Decisions and Insights into Impact."
+* Created an interactive Tableau dashboard to analyze EV adoption trends.
+* Included KPIs, state-wise analysis, vehicle categories, and manufacturer insights.
+* Delivered business-ready visualizations for decision-making.
 
+---
+
+## 🌐 Personal Portfolio Website
+
+**Next.js • React • Tailwind CSS**
+
+* Designed and deployed a fully responsive personal portfolio.
+* Showcases projects, technical skills, certifications, and experience.
+* Optimized for performance and recruiter-friendly presentation.
+
+---
+
+# 🏆 Certifications
+
+* IBM – Python for Data Science, AI & Development
+* IBM – Data Analysis with Python
+* SQL for Data Science
+* Data Analysis & Visualization with Power BI
+* Postman API Fundamentals Student Expert
+
+---
+
+# 📈 Career Interests
+
+* AI Engineer
+* Machine Learning Engineer
+* Data Engineer
+* Data Scientist
+* Business Intelligence Engineer
+* Analytics Engineer
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [acjadhav1504@gmail.com](mailto:acjadhav1504@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/akash-jadhav6815/
+
+💻 **GitHub:** https://github.com/AkashJadhav6815
+
+🌐 **Portfolio:** https://akash-jadhavportfolio.netlify.app/
+
+---
+
+# ⭐ Motto
+
+> **"Building AI-powered solutions that transform data into intelligent decisions."**
